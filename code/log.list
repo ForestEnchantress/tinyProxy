@@ -1,0 +1,4 @@
+visit url:ftp://test/
+visit url:ftp://test/
+visit url:http://www.csdn.com/
+visit url:http://www.baidu.com/
